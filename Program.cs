@@ -11,7 +11,11 @@ namespace BridgeLabzApp
     {
         static void Main(string[] args)
         {
-            BasicCSharp basicCSharp = new BasicCSharp();
+            //PowerOf2 powerOf2 = new PowerOf2();
+            //powerOf2.PowerTwo();
+            //FlipACoin flipACoin = new FlipACoin();
+            //LeapYear leapYear = new LeapYear();
+            HarmonicNumber harmonicNumber = new HarmonicNumber();
         }
 
         }
