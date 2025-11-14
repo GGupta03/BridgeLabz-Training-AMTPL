@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -38,8 +38,8 @@ namespace BridgeLabzApp.Collections
                 Name = "Nabeel",
                 Salary = 700000
             };
-
-            Dictionary<int, Customer> dictionaryCustomer = new Dictionary<int, Customer>();
+            
+            Dictionary<int,Customer> dictionaryCustomer = new Dictionary<int,Customer>();
             dictionaryCustomer.Add(customer1.Id, customer1);
             dictionaryCustomer.Add(customer2.Id, customer2);
             dictionaryCustomer.Add(customer3.Id, customer3);
@@ -49,4 +49,4 @@ namespace BridgeLabzApp.Collections
     }
 }
 
-
+*/
