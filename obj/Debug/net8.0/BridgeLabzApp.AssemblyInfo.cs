@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BridgeLabzApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0711734de3e6ee5b3e9da3819e6347b90e8d5fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bc27f42fe1cc69f8dbfb788c85c1bc507b30ddb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BridgeLabzApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BridgeLabzApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
