@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BridgeLabzApp.OOPS_Concepts.Inheritance
+namespace BridgeLabzApp.OOPS_Concepts.Inheritance.Single_Inheritance
 {
     internal class Animal
     {

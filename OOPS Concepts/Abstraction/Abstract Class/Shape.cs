@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BridgeLabzApp.OOPS_Concepts.Abstraction.Abstract_Class
+namespace BridgeLabzApp.OOPS_Concepts.Abstraction.Abstract Class
 {
     internal abstract class Shape
     {

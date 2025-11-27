@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BridgeLabzApp.OOPS_Concepts.Abstraction
+namespace BridgeLabzApp.OOPS_Concepts.Abstraction.Interface
 {
     internal class InterfaceExample
     {

@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace BridgeLabzApp.OOPS_Concepts.Polymorphism
+namespace BridgeLabzApp.OOPS_Concepts.Polymorphism.Run_Time_Polymorphism
 {
-    internal class PolymorphismOR
+    internal class ORP_Employee
     {
         public class Employee
         {
