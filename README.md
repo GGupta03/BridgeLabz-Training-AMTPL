@@ -1,77 +1,262 @@
-## 🗓️ Date: 29/10/25
+# 📘 BridgeLabz Training Progress  
 
+
+
+## 🗓️ Oct 30, 2025
 ### ✅ What I Have Done:
 - Installed **Visual Studio**.  
 - Explored **Git documentation**.  
-- Practiced basic Git commands such as:
-  - `git init`
-  - `git status`
-  - `git add`
-  - `git reset`
-  - `git diff`
+- Practiced basic Git commands:
+  `git init`, `git status`, `git add`, `git reset`, `git diff`.
+- Completed the **Git & GitHub lecture**.
+- Implemented Git commands:
+  `push`, `delete`, `branch`.
+- Studied **basic Linux commands**.
 
-### 🎯 What I Will Do:
-- Complete a short lecture on **Git and GitHub**.  
-- Implement additional **Git commands**.
-
-### ⚠️ Issues Faced:
-- **None**
-
-
----
-
-## 🗓️ Date: 30/10/25
-
-### ✅ What I Have Done:
-- Completed the **Git and GitHub lecture**.  
-- Practiced advanced Git commands including:
-  - `git push`
-  - `git delete`
-  - `git branch`  
-- Studied **fundamental Linux commands**.
-
-### 🎯 What I Will Do:
+### 🎯 What I Will Do Next:
 - Learn and implement more **Linux commands**.  
-- Begin studying the **.NET documentation**.
+- Start with **basic C#** concepts.
 
 ### ⚠️ Issues Faced:
-- Faced an issue with the **Git branch** command, which was successfully resolved.
-
+- Faced an issue with the Git `branch` command (**Resolved**).
 
 ---
 
-## 🗓️ Date: 31/10/25
-
+## 🗓️ Oct 31, 2025
 ### ✅ What I Have Done:
-- Studied the basics of **.NET**.  
-- Created a GitHub repository named **BridgeLabz-Training-AMTPL**.  
-- Performed the following tasks:
-  - Created a **README.md** file inside the repository to update daily progress (with date and topics completed each day).  
-  - From the **main** branch, created a new branch named **dev**.  
-  - Pushed an empty **Console Project** to the **dev** branch.  
-  - From the **dev** branch, created separate **feature branches** for each topic.
+- Studied basics of **.NET**.
+- Created GitHub repository **BridgeLabz-Training-AMTPL**.
 
-### 🎯 What I Will Do:
-- Complete the **.NET documentation**.  
-- Start learning **basic C#** concepts.
-
-## 🗓️ Date: 01/11/25
-
-### ✅ What I Have Done:
-- Completed the **basics of .NET**.  
-- Started learning **C# basics**, including:
-  - **Variables**
-  - **Data types**
-  - **Input/Output**
-
-### 🎯 What I Will Do:
-- Implement **C# basic concepts**, focusing on:
-  - **Looping**
-  - **Conditional statements**
-  - **Switch cases**
+### 🎯 What I Will Do Next:
+- Complete the .NET documentation.  
+- Start **basic C#**.
 
 ### ⚠️ Issues Faced:
-- **None**
+- None.
 
+---
 
+## 🗓️ Nov 1, 2025
+### ✅ What I Have Done:
+- Completed basics of **.NET**.  
+- Started **C# basics**:
+  - Variables  
+  - Data Types  
+  - Input/Output  
 
+### 🎯 What I Will Do Next:
+- Implement **C# concepts**:
+  - Loops  
+  - Conditional statements  
+  - Switch  
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 3, 2025
+### ✅ What I Have Done:
+- Type Conversion  
+- Variables  
+- If-Else  
+- Switch Statement  
+- Loops  
+
+### 🎯 What I Will Do Next:
+- Arrays  
+- Strings  
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 4, 2025
+### ✅ What I Have Done:
+- Implemented conditional problems:
+  - Flip Coin  
+  - Leap Year  
+  - Power of 2  
+  - Harmonic Number  
+- Studied:
+  - Arrays  
+  - Strings  
+  - Dictionaries  
+  - Sets  
+
+### 🎯 What I Will Do Next:
+- Implementation of Arrays & String questions.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 6, 2025
+### ✅ What I Have Done:
+- Studied **OOPs** documentation.
+
+### 🎯 What I Will Do Next:
+- Solve the **Snake & Ladder** problem.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 7, 2025
+### ✅ What I Have Done:
+- Started Snake & Ladder **Use Case 1**.
+- Continued implementation up to **Use Case 4**.
+
+### 🎯 What I Will Do Next:
+- Complete all Snake & Ladder use cases.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 8, 2025
+### ✅ What I Have Done:
+- Continued working on Snake & Ladder.  
+- Completed the **Snake & Ladder** project.
+
+### 🎯 What I Will Do Next:
+- Start the **Employee Wage** problem.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 10, 2025
+### ✅ What I Have Done:
+- Completed the **Employee Wage** problem.  
+- Started studying **OOPs concepts**.
+
+### 🎯 What I Will Do Next:
+- Continue OOPs.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 11, 2025
+### ✅ What I Have Done:
+- Classes & Objects  
+- Constructors & Types  
+- Static and Non-Static Constructors  
+
+### 🎯 What I Will Do Next:
+- Inheritance  
+- Polymorphism  
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 12, 2025
+### ✅ What I Have Done:
+- Static vs Non-Static  
+- Inheritance  
+- Polymorphism  
+
+### 🎯 What I Will Do Next:
+- Encapsulation  
+- Abstraction  
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 13, 2025
+### ✅ What I Have Done:
+- Completed full **OOPs concepts** and implementation.
+
+### 🎯 What I Will Do Next:
+- Start **Generics, RegEx, and Collections**.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 14, 2025
+### ✅ What I Have Done:
+- Revised OOPs  
+- Studied **Generic Class**  
+- Started **Collections (Dictionary)**  
+- Completed **Review 2 Implementation**
+
+### 🎯 What I Will Do Next:
+- Continue learning Collections.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 15, 2025
+### ✅ What I Have Done:
+- Studied **Non-Generic Collections**: ArrayList, HashTable  
+- Continued **Generic Collections**  
+- Implemented example problems  
+
+### 🎯 What I Will Do Next:
+- Complete Collections & their implementation.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 17, 2025
+### ✅ What I Have Done:
+- Continued Collections:
+  - List  
+  - ArrayList  
+  - Dictionary  
+  - HashMap  
+  - Enum  
+  - IComparable  
+- Implementations
+
+### 🎯 What I Will Do Next:
+- DSA questions via collaboration  
+- Start **RegEx**
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 22, 2025
+### ✅ What I Have Done:
+- Implemented problems using **Generic Collections**  
+- Started **RegEx**
+
+### 🎯 What I Will Do Next:
+- Continue RegEx
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 26, 2025
+### ✅ What I Have Done:
+- Implemented basic DSA questions  
+- Studied basic **RegEx**  
+- Started **Exception Handling**
+
+### 🎯 What I Will Do Next:
+- Revise Collections  
+- Continue Exception Handling  
+
+### ⚠️ Issues Faced:
+- None.
