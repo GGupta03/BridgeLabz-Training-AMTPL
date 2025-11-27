@@ -1,50 +1,63 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BridgeLabzApp.OOPS_Concepts.Inheritance
 {
     internal class EmployeeType
     {
+        
         public class Employee
         {
             public string? FirstName;
             public string? LastName;
             public string? Email;
 
-            public void PrintFullName()
+            public virtual void PrintFullName()
             {
-                Console.WriteLine(FirstName + " " + LastName);
+                Console.WriteLine("Employee Full Name: " + FirstName + " " + LastName);
             }
         }
 
+        
         public class FullTimeEmployee : Employee
         {
-            float YearlySalary;
+            public float YearlySalary;
+
+            public override void PrintFullName()
+            {
+                Console.WriteLine("Full-Time: " + FirstName + " " + LastName);
+            }
         }
 
+        
         public class PartTimeEmployee : Employee
         {
-            float HourlySalary;
+            public float HourlySalary;
+
+            public override void PrintFullName()
+            {
+                Console.WriteLine("Part-Time: " + FirstName + " " + LastName);
+            }
         }
 
-        class Program
+        
+        public class Program
         {
-            public static void Run()
+            public static void Main(string[] args)
             {
+                
                 FullTimeEmployee FTE = new FullTimeEmployee();
                 FTE.FirstName = "Pranav";
                 FTE.LastName = "Mahajan";
+                FTE.YearlySalary = 600000;
                 FTE.PrintFullName();
 
+                
                 PartTimeEmployee PTE = new PartTimeEmployee();
                 PTE.FirstName = "Pratyush";
                 PTE.LastName = "Aggarwal";
+                PTE.HourlySalary = 350;
                 PTE.PrintFullName();
             }
-
         }
     }
 }

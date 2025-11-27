@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BridgeLabzApp.OOPS_Concepts.Polymorphism
-
 {
     internal class PolymorphismOR
     {
@@ -17,7 +12,7 @@ namespace BridgeLabzApp.OOPS_Concepts.Polymorphism
 
             public virtual void PrintFullName()
             {
-                Console.WriteLine(FirstName + " " + LastName);
+                Console.WriteLine(FirstName + " " + LastName + " - Employee");
             }
         }
 
@@ -25,7 +20,7 @@ namespace BridgeLabzApp.OOPS_Concepts.Polymorphism
         {
             public override void PrintFullName()
             {
-                Console.WriteLine(FirstName + " " + LastName + " - Full Time ");
+                Console.WriteLine(FirstName + " " + LastName + " - Full Time Employee");
             }
         }
 
@@ -33,7 +28,7 @@ namespace BridgeLabzApp.OOPS_Concepts.Polymorphism
         {
             public override void PrintFullName()
             {
-                Console.WriteLine(FirstName + " " + LastName + " - Part Time");
+                Console.WriteLine(FirstName + " " + LastName + " - Part Time Employee");
             }
         }
 
@@ -47,22 +42,20 @@ namespace BridgeLabzApp.OOPS_Concepts.Polymorphism
 
         class Program
         {
-            public static void main()
+            public static void Main(string[] args)
             {
-                Employee[] employee = new Employee[4];
+                Employee[] employees = new Employee[4];
 
-                employee[0] = new Employee();
-                employee[1] = new FullTimeEmployee();
-                employee[2] = new PartTimeEmployee();
-                employee[3] = new TemporaryEmployee();
+                employees[0] = new Employee() { FirstName = "Gaurav", LastName = "Gupta" };
+                employees[1] = new FullTimeEmployee() { FirstName = "Pranav", LastName = "Mahajan" };
+                employees[2] = new PartTimeEmployee() { FirstName = "Pratyush", LastName = "Aggarwal" };
+                employees[3] = new TemporaryEmployee() { FirstName = "Ananya", LastName = "Sharma" };
 
-                foreach (Employee e in employee)
+                foreach (Employee e in employees)
                 {
                     e.PrintFullName();
                 }
-
-
-            }      
+            }
         }
     }
 }

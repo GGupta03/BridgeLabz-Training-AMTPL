@@ -1,41 +1,53 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BridgeLabzApp.OOPS_Concepts.Abstraction
 {
-    internal class Interface
+    internal class InterfaceExample
     {
+        
         interface ICustomer
         {
-            void print();
+            void Print();
         }
+
+        
         interface ICustomer2 : ICustomer
         {
-            void print1();
+            void Print1();
         }
 
-        public class Customer : ICustomer, ICustomer2
+        // Implementing both interfaces
+        public class Customer : ICustomer2
         {
-            public void print()
+            public void Print()
             {
-                Console.WriteLine("Interface Method");
+                Console.WriteLine("ICustomer: Print Method Executed");
             }
 
-            public void print1()
+            public void Print1()
             {
-                Console.WriteLine("Interface Method for ICustomer 2");
+                Console.WriteLine("ICustomer2: Print1 Method Executed");
             }
         }
 
+        
         public class Program
         {
-            public static void main()
+            public static void Main(string[] args)
             {
                 Customer c = new Customer();
-                c.print();
+
+                Console.WriteLine("Calling methods using class object:");
+                c.Print();
+                c.Print1();
+
+                Console.WriteLine("\nCalling methods using interface reference:");
+                ICustomer customer1 = c;
+                customer1.Print();
+
+                ICustomer2 customer2 = c;
+                customer2.Print();
+                customer2.Print1();
             }
         }
     }
