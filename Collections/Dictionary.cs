@@ -1,8 +1,5 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BridgeLabzApp.Collections
 {
@@ -11,12 +8,11 @@ namespace BridgeLabzApp.Collections
         public int Id { get; set; }
         public string? Name { get; set; }
         public int Salary { get; set; }
-
-
     }
+
     class Program
     {
-        public static void main()
+        public static void Main(string[] args)
         {
             Customer customer1 = new Customer()
             {
@@ -38,15 +34,23 @@ namespace BridgeLabzApp.Collections
                 Name = "Nabeel",
                 Salary = 700000
             };
-            
-            Dictionary<int,Customer> dictionaryCustomer = new Dictionary<int,Customer>();
+
+            Dictionary<int, Customer> dictionaryCustomer = new Dictionary<int, Customer>();
             dictionaryCustomer.Add(customer1.Id, customer1);
             dictionaryCustomer.Add(customer2.Id, customer2);
             dictionaryCustomer.Add(customer3.Id, customer3);
 
+            Console.WriteLine("Customer Details:");
+            foreach (var kvp in dictionaryCustomer)
+            {
+                Console.WriteLine($"Key: {kvp.Key}, Name: {kvp.Value.Name}, Salary: {kvp.Value.Salary}");
+            }
 
+            Console.WriteLine("\nAccessing Customer with Key 102:");
+            if (dictionaryCustomer.TryGetValue(102, out Customer? cust))
+            {
+                Console.WriteLine($"Id: {cust.Id}, Name: {cust.Name}, Salary: {cust.Salary}");
+            }
         }
     }
 }
-
-*/

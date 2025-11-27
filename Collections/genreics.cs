@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BridgeLabzApp.Collections
 {
-    internal class Genreics
+    internal class Generics
     {
         public class Calculator
         {
@@ -18,10 +14,11 @@ namespace BridgeLabzApp.Collections
 
         public class Program
         {
-            public static void Main()
+            public static void Main(string[] args)
             {
-                bool Equal = Calculator.AreEqual<int>(1, 2);
-                if (Equal)
+                bool equal = Calculator.AreEqual(1, 2);
+
+                if (equal)
                 {
                     Console.WriteLine("They are Equal");
                 }
