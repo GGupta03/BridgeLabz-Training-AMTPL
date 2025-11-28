@@ -260,3 +260,32 @@
 
 ### ⚠️ Issues Faced:
 - None.
+
+---
+
+## 🗓️ Nov 27, 2025
+### ✅ What I Have Done:
+- Implemented basic **RegEx** code (Phone Number & Email pattern checking).  
+- Continued working on **Exception Handling**.  
+- Updated the **GitHub repository**.
+
+### 🎯 What I Will Do Next:
+- Continue with the Exception Handling concepts.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Nov 28, 2025
+### ✅ What I Have Done:
+- Solved **one Basic** and **one Medium** level LeetCode question.  
+- Continued with **Exception Handling**.
+
+### 🎯 What I Will Do Next:
+- Complete the **Exception Handling** topic.
+
+### ⚠️ Issues Faced:
+- None.
+
+
