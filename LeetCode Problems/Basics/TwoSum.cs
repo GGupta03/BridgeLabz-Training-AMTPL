@@ -20,15 +20,20 @@ public class Solution
 
         for (int i = 0; i < nums.Length; i++)
         {
-            if (set.ContainsKey(target - nums[i]))
+            int complement = target - nums[i];
+
+            if (set.ContainsKey(complement))
             {
-                return new int[] { set[target - nums[i]], i };
+                return new int[] { set[complement], i };
             }
-            else
+
+            if (!set.ContainsKey(nums[i]))
             {
                 set.Add(nums[i], i);
             }
         }
+
         return new int[] { -1, -1 };
     }
 }
+
