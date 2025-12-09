@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabzApp.Collections.List01</StartupObject>
+    <StartupObject>BridgeLabzApp.Exception_Handling.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
