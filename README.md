@@ -287,5 +287,83 @@
 
 ### ⚠️ Issues Faced:
 - None.
+  
+---
+
+## 🗓️ Nov 29, 2025
+### ✅ What I Have Done:
+- Continued studying **Exception Handling**.
+
+### 🎯 What I Will Do Next:
+- Practice Exception Handling.  
+- Continue with **Collections** (Stack and Queue).
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Dec 3, 2025
+### ✅ What I Have Done:
+- Reviewed **Collections**.  
+- Implemented questions related to **Exception Handling**.
+
+### 🎯 What I Will Do Next:
+- Complete pending Collections topics (**Stack / Queue**).
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Dec 4, 2025
+### ✅ What I Have Done:
+- Worked on **Custom Exception Handling**.
+
+### 🎯 What I Will Do Next:
+- Revise all concepts covered till now.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Dec 5, 2025
+### ✅ What I Have Done:
+- Revised completed concepts.  
+- Completed the **third code implementation review**.  
+- Started studying **Linked List**.
+
+### 🎯 What I Will Do Next:
+- Complete **DSA concepts**.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Dec 6, 2025
+### ✅ What I Have Done:
+- Completed **Review 3**.  
+- Implemented **Linked List using built-in functions**.
+
+### 🎯 What I Will Do Next:
+- Study **Sorting and Searching Algorithms**.
+
+### ⚠️ Issues Faced:
+- None.
+
+---
+
+## 🗓️ Dec 8, 2025
+### ✅ What I Have Done:
+- Started learning **LINQ** and **Lambda Expressions**.
+
+### 🎯 What I Will Do Next:
+- Continue with **NUnit**, **Events**, and **Closures**.
+
+### ⚠️ Issues Faced:
+- None.
+
 
 
