@@ -1,0 +1,15 @@
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\BridgeLabzApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\BridgeLabzApp.AssemblyInfoInputs.cache
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\BridgeLabzApp.AssemblyInfo.cs
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\BridgeLabzApp.csproj.CoreCompileInputs.cache
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\BridgeLabzApp.sourcelink.json
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\bin\Debug\net8.0\BridgeLabzApp.exe
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\bin\Debug\net8.0\BridgeLabzApp.deps.json
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\bin\Debug\net8.0\BridgeLabzApp.runtimeconfig.json
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\bin\Debug\net8.0\BridgeLabzApp.dll
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\bin\Debug\net8.0\BridgeLabzApp.pdb
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\BridgeLabzApp.dll
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\refint\BridgeLabzApp.dll
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\BridgeLabzApp.pdb
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\BridgeLabzApp.genruntimeconfig.cache
+C:\Users\gaura\source\repos\BridgeLabz-Training-AMTPL\BridgeLabzApp\obj\Debug\net8.0\ref\BridgeLabzApp.dll
