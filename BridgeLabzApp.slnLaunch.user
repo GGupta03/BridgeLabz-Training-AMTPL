@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BridgeLabzApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\BridgeLabzAppTesting\\BridgeLabzAppTesting.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
