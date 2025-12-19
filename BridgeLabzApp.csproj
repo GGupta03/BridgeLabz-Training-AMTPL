@@ -1,15 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<OutputType>Library</OutputType>
+		<OutputType>WinExe</OutputType>
 		<!-- FIXED -->
 		<TargetFramework>net8.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
+		<StartupObject>BridgeLabzApp.Events.Program</StartupObject>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Folder Include="Delegates\" />
+		<Folder Include="Lambda\" />
+		<Folder Include="Closures\" />
 	</ItemGroup>
 
 </Project>
