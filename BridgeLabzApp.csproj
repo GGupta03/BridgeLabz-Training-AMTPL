@@ -9,10 +9,5 @@
 		<StartupObject>BridgeLabzApp.Events.Program</StartupObject>
 	</PropertyGroup>
 
-	<ItemGroup>
-		<Folder Include="Lambda\" />
-		<Folder Include="Closures\" />
-	</ItemGroup>
-
 </Project>
 
